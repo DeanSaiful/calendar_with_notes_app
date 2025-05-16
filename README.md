@@ -4,7 +4,7 @@ A simple calendar app where users can add and manage their notes for specific da
 
 ## Demo
 
-You can view the live demo of the app here: [calendar-with-notes-app.netlify.app](https://calendar-with-notes-app.netlify.app)
+You can view the live demo of the app here: https://calendar-with-notes-app.onrender.com
 
 ## Features
 
